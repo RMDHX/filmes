@@ -67,7 +67,7 @@ footer{
     width: 100%;
     margin: auto 0 0 0;
     padding: 20px;
-    position: absolute;
+    position: sticky;
     bottom: 0;
     z-index: 1;
 }
